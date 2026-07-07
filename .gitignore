@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# Build files
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.user
+
+# Large datasets
+data/*.csv
